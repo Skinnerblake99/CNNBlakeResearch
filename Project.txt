@@ -1,0 +1,6 @@
+This code base for the project is reserach being done by Blake Skinner for a final year project investigating the use 
+of AI in automating insurance claims.The dataset that would accompany this code cannot be released with the project due to
+nature of the data accquired from a private company.The code base has been made publically avaliable so the code can be viewed
+attached to my paper.Note I have uploaeded the base code and if a different model is required other than the base ResNet50 model
+this is simply swapped in for Resnet50 in the includes and the model name changed and then tweaking is done to each model depedning 
+on results and subtle parameters are changed.   
